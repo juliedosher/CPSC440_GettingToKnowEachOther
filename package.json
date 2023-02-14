@@ -1,0 +1,22 @@
+{
+  "name": "cpsc440_gettingtoknoweachother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliedosher/CPSC440_GettingToKnowEachOther.git"
+  },
+  "author": "Julie Dosher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliedosher/CPSC440_GettingToKnowEachOther/issues"
+  },
+  "homepage": "https://github.com/juliedosher/CPSC440_GettingToKnowEachOther#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
