@@ -1,8 +1,8 @@
 # Getting To Know Each Other
 
 Author: Julie Dosher, juliegdosher@lewisu.edu  
-Project: CPSC 440, Sprint 1 - Getting To Know Each Other
-https://juliedosher-cpsc440-intro.azurewebsites.net/
+Project: CPSC 440, Sprint 1 - Getting To Know Each Other  
+https://juliedosher-cpsc440-intro.azurewebsites.net/  
 
 
 Credit:
