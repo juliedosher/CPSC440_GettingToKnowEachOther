@@ -2,13 +2,16 @@
   "name": "cpsc440_gettingtoknoweachother",
   "version": "1.0.0",
   "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 1 - Getting To Know Each Other https://juliedosher-cpsc440-intro.azurewebsites.net/",
-  "main": "app.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juliedosher/CPSC440_GettingToKnowEachOther.git"
   },
   "author": "Julie Dosher",
   "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  },
   "bugs": {
     "url": "https://github.com/juliedosher/CPSC440_GettingToKnowEachOther/issues"
   },
